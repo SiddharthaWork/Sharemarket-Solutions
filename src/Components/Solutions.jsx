@@ -16,7 +16,7 @@ const Solutions = () => {
                 </h1>
                 <p className='text-white text-base md:text-lg font-normal font-nunito text-center lg:text-justify'>
                 Stay ahead in the competitive trading landscape with instant access to live stock prices, detailed market trends, and comprehensive historical data. Our Share Market Solutions provide seamless integration with trusted financial data providers, ensuring you receive accurate and up-to-the-minute information.<br/>
-                With advanced visualization tools like interactive charts and customizable dashboards, you can monitor market fluctuations, identify key trends, and track stock performance with ease. Whether you're analyzing short-term market movements or conducting long-term trend evaluations, our platform equips you with the insights needed to make well-informed trading decisions.
+                With advanced visualization tools like interactive charts and customizable dashboards, you can monitor market fluctuations, identify key trends, and track stock performance with ease. Whether youre analyzing short-term market movements or conducting long-term trend evaluations, our platform equips you with the insights needed to make well-informed trading decisions.
                 </p>
                 <button className='rounded-md bg-[#29AAE1] text-white lg:px-6 py-2 font-nunito px-4 lg:text-lg hover:bg-[#2090c0] transition-colors'>
                 Hire Us To Build Your App
